@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360">
+  <rect width="900" height="360" fill="#f7fafc"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <g fill="#dbeafe" stroke="#2563eb" stroke-width="2">
+      <rect x="40" y="130" width="160" height="70" rx="8"/>
+      <rect x="260" y="130" width="160" height="70" rx="8"/>
+      <rect x="480" y="80" width="160" height="70" rx="8"/>
+      <rect x="480" y="180" width="160" height="70" rx="8"/>
+      <rect x="700" y="130" width="160" height="70" rx="8"/>
+    </g>
+    <g fill="#102a43" font-size="16">
+      <text x="120" y="160">Azure usage</text><text x="120" y="182">and billing data</text>
+      <text x="340" y="160">Cost analysis</text><text x="340" y="182">and forecasting</text>
+      <text x="560" y="110">Reserved</text><text x="560" y="132">Instance</text>
+      <text x="560" y="210">Savings Plan</text><text x="560" y="232">or pay-as-you-go</text>
+      <text x="780" y="160">Monitoring</text><text x="780" y="182">and review</text>
+    </g>
+    <g stroke="#486581" stroke-width="3" fill="none" marker-end="url(#arrow)">
+      <path d="M200 165h60"/><path d="M420 165h45"/><path d="M640 115h60"/><path d="M640 215h60"/>
+    </g>
+  </g>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#486581"/></marker></defs>
+</svg>
