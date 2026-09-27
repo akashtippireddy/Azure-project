@@ -23,3 +23,6 @@ Create a reliable view of current Azure compute usage and pay-as-you-go spending
 - Every candidate workload has an owner and subscription.
 - Costs can be traced back to source exports.
 - Seasonal or temporary usage is clearly marked.
+
+<img width="1280" height="622" alt="image" src="https://github.com/user-attachments/assets/17f84398-c998-42be-b499-ebab93b4ffcf" />
+
