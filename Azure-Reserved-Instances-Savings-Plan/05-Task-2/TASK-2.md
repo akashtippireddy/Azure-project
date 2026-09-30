@@ -23,3 +23,4 @@ Determine which workloads have stable usage suitable for a reservation or Saving
 - Stable base usage is distinguishable from burst demand.
 - Each recommendation includes a documented reason.
 - Workload owners validate the assumptions.
+<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/e58780bf-5d47-4f2a-917c-dcc738714088" />
