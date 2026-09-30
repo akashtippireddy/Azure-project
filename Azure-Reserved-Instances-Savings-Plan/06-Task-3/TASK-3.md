@@ -23,3 +23,5 @@ Choose the most suitable purchasing model for each workload.
 - Commitment decision matrix.
 - Purchase quantities or hourly commitment targets.
 - Approval record and implementation schedule.
+- <img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/ed381001-1739-43b6-a67a-2a58aa104fde" />
+
