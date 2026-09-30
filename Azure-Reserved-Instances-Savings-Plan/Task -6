@@ -1,1 +1,39 @@
+# Task 6: Configure and Test Autoscaling of Azure Web App
+
+## Objective
+
+To configure and test autoscaling for an Azure Web App using Microsoft Azure.
+
+## Tools Used
+
+* Microsoft Azure Portal
+* Azure App Service
+* App Service Plan
+* Azure Monitor
+
+## Procedure
+
+1. Open the Azure Portal.
+2. Navigate to the Web App and its associated App Service Plan.
+3. Select Scale out (App Service plan).
+4. Configure autoscaling based on CPU utilization.
+5. Set the minimum, maximum, and default instance counts.
+6. Save the autoscaling configuration.
+7. Monitor CPU utilization and the number of instances.
+8. Verify scaling behavior when the configured conditions are met.
+
+## Expected Output
+
+* Autoscaling rules are configured.
+* The number of instances changes when scaling conditions are met.
+* CPU utilization and instance counts can be monitored in Azure.
+
+## Result
+
+Autoscaling is configured. Successful scaling must be verified using the actual Azure Portal metrics and instance count.
+
+## Conclusion
+
+Azure autoscaling helps adjust application capacity according to workload and improves resource utilization.
+
 
