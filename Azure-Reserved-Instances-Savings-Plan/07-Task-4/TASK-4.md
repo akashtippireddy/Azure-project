@@ -24,4 +24,5 @@ Apply the approved reservations and Savings Plan commitments with appropriate ac
 - Purchase confirmation.
 - Updated commitment inventory.
 - Initial post-purchase validation report.
-<img width="1280" height="617" alt="image" src="https://github.com/user-attachments/assets/eae492ea-c503-4d1f-95fd-27e363715c68" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6e1b9219-e053-45eb-85be-39d323722a5e" />
+
